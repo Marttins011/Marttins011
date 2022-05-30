@@ -23,7 +23,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marttins011&layout=compact&langs_count=7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
     
 ##
-
-<div>
-    <img align=center width=300em src="https://cdn.discordapp.com/attachments/938809883644547092/980915842772516884/hustle.gif">
-</div>
