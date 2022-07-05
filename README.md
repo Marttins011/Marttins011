@@ -14,7 +14,7 @@
 ##
 
 <div>
-      <a href="https://marttins011.github.io/Landing-Page/" target="_blank"><img width=50px src="https://cdn.discordapp.com/attachments/921208909115564044/977585435440210033/imagem_2022-05-21_155501754-removebg-preview.png">
+      <a href="https://marttins011.github.io/Landing-Page/" target="_blank"><img width=200px src="https://cdn.discordapp.com/attachments/921208909115564044/977585435440210033/imagem_2022-05-21_155501754-removebg-preview.png">
 </div>
   
  ##
