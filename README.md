@@ -9,13 +9,13 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marttins011&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-##
-
 <div>
       <a href="https://marttins011.github.io/Landing-Page/" target="_blank"><img width=200px src="https://cdn.discordapp.com/attachments/921208909115564044/977585435440210033/imagem_2022-05-21_155501754-removebg-preview.png">
 </div>
+      
+      ##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marttins011&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
  ##
 
