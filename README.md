@@ -6,7 +6,7 @@
 - ❤️ I love to help people with some Fivem Development basic issues and do some simple scripts
 - 🧡 In love with QBCore <3
 - 🤏 16 Years old 
-- 💙 <a href="https://marttins011.github.io/Landing-Page/" target="_blank"> Click Here! 
+- 💙 <a href="https://marttins011.github.io/Landing-Page/" target="_blank"> Don't click here! 
       
 ##
 
