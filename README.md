@@ -14,6 +14,12 @@
 ##
 
 <div>
+      <a href="https://marttins011.github.io/Landing-Page/" target="_blank"><img width=50px src="https://cdn.discordapp.com/attachments/921208909115564044/977585435440210033/imagem_2022-05-21_155501754-removebg-preview.png">
+</div>
+  
+ ##
+
+<div>
   <a href="https://discord.gg/AQHbsahZsV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   <a href="https://www.youtube.com/channel/UCCJvrm66Ia9Yn36guZgI8PA/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   <a href="https://www.instagram.com/marttttttins/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -34,9 +40,4 @@
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-# MT Scripts website:
-<div>
-      <a href="https://marttins011.github.io/Landing-Page/" target="_blank"><img src="https://cdn.discordapp.com/attachments/921208909115564044/977585435440210033/imagem_2022-05-21_155501754-removebg-preview.png">
 </div>
