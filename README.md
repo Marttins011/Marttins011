@@ -5,7 +5,6 @@
 - 😅 I'm a wannabe dev that is too lazy and is still learning the basic
 - ❤️ I love to help people with some Fivem Development basic issues and do some simple scripts
 - 🧡 In love with QBCore <3
-- 🤏 16 Years old 
 - 💙 <a href="https://mt-scripts.tebex.io" target="_blank"> Don't click here! 
       
 ##
