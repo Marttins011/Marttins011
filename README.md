@@ -4,9 +4,9 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marttins011&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marttins011&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marttins011&layout=compact&langs_count=7&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marttins011&layout=compact&langs_count=7&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
     
 ## Skills:
         
