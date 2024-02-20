@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=CCDBE4&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+Marttins;17+years+old;wannabe+fullstack+dev;fivem+dev;still+learing+the+basic)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=CCDBE4&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+Marttins;18+years+old;wannabe+fullstack+dev;fivem+dev;still+learing+the+basic)](https://git.io/typing-svg)
 
 ##
 
