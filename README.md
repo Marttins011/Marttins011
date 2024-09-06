@@ -1,5 +1,5 @@
 # 💫 About Me:
-👶18 Years old<br>👨‍💻Currently working as FiveM developer<br>💙React lover<br>🩵MT Scripts owner<br><br>
+👶18 Years old<br>👨‍💻Currently working as FiveM developer<br>💙React lover<br>🩵MT Scripts owner<br>
 
 
 ## 🌐 Socials:
