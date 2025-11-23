@@ -1,5 +1,5 @@
 # 💫 About Me:
-👶 19 Years old<br>👨‍💻 Currently working as FiveM developer<br>🩵 CEO MT Scripts<br>🖤 CEO MT Next Solutions
+👶 19 Years old<br>👨‍💻 Currently working as FiveM developer<br>🩵 CEO MT Scripts
 
 
 ## 🌐 Socials:
